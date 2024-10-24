@@ -52,6 +52,61 @@ SIAGAS adalah sistem informasi yang bertujuan untuk meningkatkan transparansi da
 ![image](https://github.com/user-attachments/assets/78944ec9-8edc-4005-8cdf-2b7d1550e5a0)
 ![image](https://github.com/user-attachments/assets/0edf4fe0-f03c-44fd-b6d4-c20fba7bdffd)
 
+# DKPP Jombang - SISTEM INFORMASI PEMDA KABUPATEN JOMBANG
+
+## 🚀 Project Overview
+Aplikasi ini dirancang untuk membantu pemerintah daerah dalam mengelola dan memantau laporan monitoring dan evaluasi (monev) serta rencana aksi (renaksi) dan kegiatan perencanaan dan penganggaran (kurja). Dengan fitur-fitur yang komprehensif, aplikasi ini memfasilitasi pengumpulan, pengelolaan, dan analisis data untuk meningkatkan transparansi dan akuntabilitas dalam proses pelaporan.
+
+## ✨ Features
+
+- **Manajemen Laporan Monev Renaksi**: Mengelola data laporan monitoring dan evaluasi (monev) serta rencana aksi (renaksi).
+- **Manajemen Laporan Kurja**: Mengelola data laporan kegiatan perencanaan dan penganggaran (kurja).
+- **Manajemen Data Master**: Mengelola laporan data master untuk keperluan analisis dan pelaporan.
+- **Generasi Laporan dalam Format Excel**: Menghasilkan laporan monev renaksi dan kurja dalam bentuk file Excel untuk kemudahan analisis dan distribusi.
+
+## 🛠️ Tech Stack
+- **Frontend:** Larvel Inertia (React).
+- **Backend:** Laravel.
+- **Database:** MySQL.
+
+## 📷 Screenshots
+![image](https://github.com/user-attachments/assets/5bf6fdba-59e6-428a-8154-ececb8c18a4f)
+![image](https://github.com/user-attachments/assets/6c042048-c2fb-4c58-8a1f-0783914abc67)
+![image](https://github.com/user-attachments/assets/03c94849-d394-45e5-a4ac-d49651fde88e)
+![image](https://github.com/user-attachments/assets/7cd5e11a-d31a-4344-9ef0-929a63e78406)
+
+
+# Beresin Sampah - Aplikasi Pengelolaan Sampah - [Playstore](https://play.google.com/store/apps/details?id=com.beres.app&pcampaignid=web_share)
+
+## 🚀 Project Overview
+Aplikasi Pengelolaan Sampah adalah solusi berbasis web dan mobile yang dirancang untuk mempermudah pengelolaan sampah di masyarakat. Aplikasi ini menyediakan platform bagi pengguna untuk melaporkan jenis dan volume sampah yang dihasilkan, serta memberikan informasi yang dibutuhkan untuk meningkatkan kesadaran dan tindakan terkait pengelolaan sampah. Dengan antarmuka yang responsif dan fitur yang lengkap, aplikasi ini bertujuan untuk mendukung upaya pelestarian lingkungan melalui pengelolaan sampah yang lebih efektif.
+
+## ✨ Features
+
+- **Pengelolaan Sampah**: Memungkinkan pengguna untuk melaporkan dan mengelola jenis dan volume sampah yang dihasilkan.
+
+- **Manajemen Pengguna**: Fitur untuk mengelola data pengguna, termasuk pendaftaran, autentikasi, dan profil pengguna.
+
+- **Transaksi**: Mengelola transaksi terkait pengelolaan sampah, termasuk pembayaran dan pelaporan.
+
+- **Laporan dan Statistik**: Menyediakan laporan dan statistik terkait pengelolaan sampah, termasuk data jumlah sampah, frekuensi pengambilan, dan lain-lain.
+
+- **Notifikasi**: Memberikan notifikasi kepada pengguna tentang jadwal pengambilan sampah, informasi terbaru, dan pembaruan lainnya.
+
+- **Admin Panel**: Fasilitas bagi admin untuk mengelola aplikasi, termasuk pengguna, data sampah, dan laporan.
+
+- **API Terintegrasi**: Menyediakan REST API yang memungkinkan aplikasi mobile mengakses data yang dikelola secara aman.
+
+- **Antarmuka Pengguna (UI) Responsif**: Antarmuka pengguna yang dirancang responsif untuk pengalaman pengguna yang baik di berbagai perangkat.
+
+- **Pengujian Kualitas**: Fitur pengujian untuk memastikan stabilitas dan kualitas aplikasi sebelum peluncuran.
+
+## 🛠️ Tech Stack
+- **Frontend:** Flutter.
+- **Backend:** Laravel.
+- **Database:** MySQL.
+
+
 # Emub Apps - Universitas Brawijaya - [Playstore](https://play.google.com/store/apps/details?id=com.emub.apps2023&pcampaignid=web_share)
 
 ## 🚀 Project Overview
@@ -70,7 +125,10 @@ Emub Apps adalah aplikasi mobile yang dirancang untuk memberikan panduan, pengad
 - **Frontend:** Flutter.
 - **Backend:** Laravel.
 - **Database:** MySQL.
+  
 
 > [!NOTE]
 > Ini hanya beberapa proyek yang telah saya kerjakan. Akan ada pembaruan dalam waktu dekat untuk menampilkan lebih banyak proyek. Untuk melihat lebih banyak, Anda dapat mengunduh CV saya di sini: [Download CV](https://github.com/rizkypsr/portfolio-rizkypsr/blob/main/CV%20Rizky%20Pratama%20Syahrul%20Ramadhan.pdf)
+
+
 
