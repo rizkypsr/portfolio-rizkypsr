@@ -1,3 +1,20 @@
+# Overview
+Hai! Saya adalah Software Developer berpengalaman dengan keahlian dalam pengembangan aplikasi web dan mobile menggunakan teknologi Flutter,
+Laravel, dan React. Berpengalaman dalam mengelola proyek dari konseptualisasi hingga peluncuran, dengan fokus pada implementasi desain yang
+diberikan dan integrasi API yang efisien. Memiliki kemampuan untuk beradaptasi dengan cepat terhadap teknologi baru dan berkolaborasi antar
+tim untuk mencapai tujuan proyek. Dilengkapi dengan kemampuan komunikasi yang kuat dan kemauan yang tinggi untuk belajar mandiri. Siap
+untuk memberikan kontribusi yang signifikan dalam lingkungan kerja yang dinamis dan inovatif.
+
+# Skills
+- **Bahasa Pemrograman**: PHP, JavaScript, Typescript, Dart, Rust, Golang
+- **Framework**: Laravel, Flutter, React, Vue, Next.js, Remix, Anchor
+- **Database**: MySQL, PostgreSQL
+- **Tools & Teknologi**: Git, Docker, Firebase
+- **Pengembangan API**: RESTful API
+- **Pengujian & Debugging**: Unit Testing, Integration Testing
+
+# Projects
+
 # E-montir - SISTEM INFORMASI E-MONTIR PEMDA KABUPATEN SORONG
 
 ## 🚀 Project Overview
@@ -76,7 +93,7 @@ Aplikasi ini dirancang untuk membantu pemerintah daerah dalam mengelola dan mema
 ![image](https://github.com/user-attachments/assets/7cd5e11a-d31a-4344-9ef0-929a63e78406)
 
 
-# Beresin Sampah - Aplikasi Pengelolaan Sampah - [Playstore](https://play.google.com/store/apps/details?id=com.beres.app&pcampaignid=web_share)
+# Beresin Sampah - Aplikasi Pengelolaan Sampah - [Link App](https://play.google.com/store/apps/details?id=com.beres.app&pcampaignid=web_share)
 
 ## 🚀 Project Overview
 Aplikasi Pengelolaan Sampah adalah solusi berbasis web dan mobile yang dirancang untuk mempermudah pengelolaan sampah di masyarakat. Aplikasi ini menyediakan platform bagi pengguna untuk melaporkan jenis dan volume sampah yang dihasilkan, serta memberikan informasi yang dibutuhkan untuk meningkatkan kesadaran dan tindakan terkait pengelolaan sampah. Dengan antarmuka yang responsif dan fitur yang lengkap, aplikasi ini bertujuan untuk mendukung upaya pelestarian lingkungan melalui pengelolaan sampah yang lebih efektif.
@@ -107,7 +124,7 @@ Aplikasi Pengelolaan Sampah adalah solusi berbasis web dan mobile yang dirancang
 - **Database:** MySQL.
 
 
-# Emub Apps - Universitas Brawijaya - [Playstore](https://play.google.com/store/apps/details?id=com.emub.apps2023&pcampaignid=web_share)
+# Emub Apps - Universitas Brawijaya - [Link App](https://play.google.com/store/apps/details?id=com.emub.apps2023&pcampaignid=web_share)
 
 ## 🚀 Project Overview
 Emub Apps adalah aplikasi mobile yang dirancang untuk memberikan panduan, pengaduan, dan kemudahan dalam pengerjaan tugas bagi mahasiswa baru di Universitas Negeri Brawijaya. Aplikasi ini bersifat internal dan ditujukan untuk mendukung mahasiswa baru dalam beradaptasi dengan lingkungan kampus.
@@ -128,7 +145,4 @@ Emub Apps adalah aplikasi mobile yang dirancang untuk memberikan panduan, pengad
   
 
 > [!NOTE]
-> Ini hanya beberapa proyek yang telah saya kerjakan. Akan ada pembaruan dalam waktu dekat untuk menampilkan lebih banyak proyek. Untuk melihat lebih banyak, Anda dapat mengunduh CV saya di sini: [Download CV](https://github.com/rizkypsr/portfolio-rizkypsr/blob/main/CV%20Rizky%20Pratama%20Syahrul%20Ramadhan.pdf)
-
-
-
+> Saya juga memiliki pengalaman dalam pembuatan Telegram Bot menggunakan Javascript/Python, dan juga beberapa pengalaman membuat dapp di Solana Blockchain
