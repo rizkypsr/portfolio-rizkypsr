@@ -1,6 +1,3 @@
-> [!NOTE]
-> Ini hanya beberapa proyek yang telah saya kerjakan. Akan ada pembaruan dalam waktu dekat untuk menampilkan lebih banyak proyek. Untuk melihat lebih banyak, Anda dapat mengunduh CV saya di sini: [Download CV](https://github.com/rizkypsr/portfolio-rizkypsr/blob/main/CV%20Rizky%20Pratama%20Syahrul%20Ramadhan.pdf)
-
 # E-montir - SISTEM INFORMASI E-MONTIR PEMDA KABUPATEN SORONG
 
 ## 🚀 Project Overview
@@ -55,7 +52,7 @@ SIAGAS adalah sistem informasi yang bertujuan untuk meningkatkan transparansi da
 ![image](https://github.com/user-attachments/assets/78944ec9-8edc-4005-8cdf-2b7d1550e5a0)
 ![image](https://github.com/user-attachments/assets/0edf4fe0-f03c-44fd-b6d4-c20fba7bdffd)
 
-# Emub Apps - Universitas Brawijaya
+# Emub Apps - Universitas Brawijaya - [Playstore](https://play.google.com/store/apps/details?id=com.emub.apps2023&pcampaignid=web_share)
 
 ## 🚀 Project Overview
 Emub Apps adalah aplikasi mobile yang dirancang untuk memberikan panduan, pengaduan, dan kemudahan dalam pengerjaan tugas bagi mahasiswa baru di Universitas Negeri Brawijaya. Aplikasi ini bersifat internal dan ditujukan untuk mendukung mahasiswa baru dalam beradaptasi dengan lingkungan kampus.
@@ -74,5 +71,6 @@ Emub Apps adalah aplikasi mobile yang dirancang untuk memberikan panduan, pengad
 - **Backend:** Laravel.
 - **Database:** MySQL.
 
-# Link App
-[Playstore](https://play.google.com/store/apps/details?id=com.emub.apps2023&pcampaignid=web_share)
+> [!NOTE]
+> Ini hanya beberapa proyek yang telah saya kerjakan. Akan ada pembaruan dalam waktu dekat untuk menampilkan lebih banyak proyek. Untuk melihat lebih banyak, Anda dapat mengunduh CV saya di sini: [Download CV](https://github.com/rizkypsr/portfolio-rizkypsr/blob/main/CV%20Rizky%20Pratama%20Syahrul%20Ramadhan.pdf)
+
