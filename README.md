@@ -1,5 +1,5 @@
 > [!NOTE]
-> Ini hanya beberapa proyek yang telah saya kerjakan. Akan ada pembaruan dalam waktu dekat untuk menampilkan lebih banyak proyek. Untuk melihat lebih banyak, Anda dapat mengunduh CV saya di sini: [Download CV](link-untuk-download-cv)
+> Ini hanya beberapa proyek yang telah saya kerjakan. Akan ada pembaruan dalam waktu dekat untuk menampilkan lebih banyak proyek. Untuk melihat lebih banyak, Anda dapat mengunduh CV saya di sini: [Download CV](https://github.com/rizkypsr/portfolio-rizkypsr/blob/main/CV%20Rizky%20Pratama%20Syahrul%20Ramadhan.pdf)
 
 # E-montir - SISTEM INFORMASI E-MONTIR PEMDA KABUPATEN SORONG
 
