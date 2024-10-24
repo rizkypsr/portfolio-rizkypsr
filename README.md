@@ -7,7 +7,7 @@ untuk memberikan kontribusi yang signifikan dalam lingkungan kerja yang dinamis 
 
 # Skills
 - **Bahasa Pemrograman**: PHP, JavaScript, Typescript, Dart, Rust, Golang
-- **Framework**: Laravel, Flutter, React, Vue, Next.js, Remix, Anchor
+- **Framework**: Laravel, Flutter, React, Vue, Next.js, Remix, Tailwind
 - **Database**: MySQL, PostgreSQL
 - **Tools & Teknologi**: Git, Docker, Firebase
 - **Pengembangan API**: RESTful API
