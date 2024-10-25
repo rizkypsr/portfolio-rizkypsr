@@ -1,5 +1,5 @@
 # Overview
-Hai! Saya adalah Software Developer berpengalaman dengan keahlian dalam pengembangan aplikasi web dan mobile menggunakan teknologi Flutter,
+Hai! Saya adalah Software Developer berpengalaman kurang lebih 4 tahun dengan keahlian dalam pengembangan aplikasi web dan mobile menggunakan teknologi Flutter,
 Laravel, dan React. Berpengalaman dalam mengelola proyek dari konseptualisasi hingga peluncuran, dengan fokus pada implementasi desain yang
 diberikan dan integrasi API yang efisien. Memiliki kemampuan untuk beradaptasi dengan cepat terhadap teknologi baru dan berkolaborasi antar
 tim untuk mencapai tujuan proyek. Dilengkapi dengan kemampuan komunikasi yang kuat dan kemauan yang tinggi untuk belajar mandiri. Siap
