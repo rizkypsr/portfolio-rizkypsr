@@ -15,7 +15,7 @@ untuk memberikan kontribusi yang signifikan dalam lingkungan kerja yang dinamis 
 
 # Projects
 
-# E-montir - SISTEM INFORMASI E-MONTIR PEMDA KABUPATEN SORONG
+# E-montir - SISTEM INFORMASI E-MONTIR PEMDA KABUPATEN SORONG - (as a Frontend Developer)
 
 ## 🚀 Project Overview
 E-Montir adalah sistem informasi yang dirancang untuk memfasilitasi pengelolaan data dan laporan dalam lingkup Pemerintah Daerah Kabupaten Sorong. Aplikasi ini bertujuan untuk meningkatkan efisiensi dalam pengelolaan sumber daya, mempermudah pemantauan kegiatan, serta menyajikan laporan yang terstruktur untuk mendukung pengambilan keputusan.
@@ -40,7 +40,7 @@ E-Montir adalah sistem informasi yang dirancang untuk memfasilitasi pengelolaan 
 ![image](https://github.com/user-attachments/assets/cf303b4e-43fc-4ce6-b7ab-00d81a551416)
 ![image](https://github.com/user-attachments/assets/f94fe7eb-d3df-4f5c-a478-936830a97c00)
 
-# SIAGAS - SISTEM INFORMASI SIAGAS PEMDA KABUPATEN SORONG
+# SIAGAS - SISTEM INFORMASI SIAGAS PEMDA KABUPATEN SORONG - (as a Frontend Developer)
 
 ## 🚀 Project Overview
 SIAGAS adalah sistem informasi yang bertujuan untuk meningkatkan transparansi dan efisiensi dalam pengelolaan inovasi daerah. Aplikasi ini memungkinkan pemantauan dan evaluasi terhadap inovasi yang diimplementasikan oleh Pemerintah Daerah, serta memberikan kemudahan dalam pengelolaan data dan laporan terkait.
@@ -69,7 +69,7 @@ SIAGAS adalah sistem informasi yang bertujuan untuk meningkatkan transparansi da
 ![image](https://github.com/user-attachments/assets/78944ec9-8edc-4005-8cdf-2b7d1550e5a0)
 ![image](https://github.com/user-attachments/assets/0edf4fe0-f03c-44fd-b6d4-c20fba7bdffd)
 
-# DKPP Jombang - SISTEM INFORMASI PEMDA KABUPATEN JOMBANG
+# DKPP Jombang - SISTEM INFORMASI PEMDA KABUPATEN JOMBANG - (as a Fullstack Developer)
 
 ## 🚀 Project Overview
 Aplikasi ini dirancang untuk membantu pemerintah daerah dalam mengelola dan memantau laporan monitoring dan evaluasi (monev) serta rencana aksi (renaksi) dan kegiatan perencanaan dan penganggaran (kurja). Dengan fitur-fitur yang komprehensif, aplikasi ini memfasilitasi pengumpulan, pengelolaan, dan analisis data untuk meningkatkan transparansi dan akuntabilitas dalam proses pelaporan.
@@ -93,7 +93,7 @@ Aplikasi ini dirancang untuk membantu pemerintah daerah dalam mengelola dan mema
 ![image](https://github.com/user-attachments/assets/7cd5e11a-d31a-4344-9ef0-929a63e78406)
 
 
-# Beresin Sampah - Aplikasi Pengelolaan Sampah - [Link App](https://play.google.com/store/apps/details?id=com.beres.app&pcampaignid=web_share)
+# Beresin Sampah - Aplikasi Pengelolaan Sampah - [Link App](https://play.google.com/store/apps/details?id=com.beres.app&pcampaignid=web_share) - (as a Fullstack Developer)
 
 ## 🚀 Project Overview
 Aplikasi Pengelolaan Sampah adalah solusi berbasis web dan mobile yang dirancang untuk mempermudah pengelolaan sampah di masyarakat. Aplikasi ini menyediakan platform bagi pengguna untuk melaporkan jenis dan volume sampah yang dihasilkan, serta memberikan informasi yang dibutuhkan untuk meningkatkan kesadaran dan tindakan terkait pengelolaan sampah. Dengan antarmuka yang responsif dan fitur yang lengkap, aplikasi ini bertujuan untuk mendukung upaya pelestarian lingkungan melalui pengelolaan sampah yang lebih efektif.
@@ -124,7 +124,7 @@ Aplikasi Pengelolaan Sampah adalah solusi berbasis web dan mobile yang dirancang
 - **Database:** MySQL.
 
 
-# Emub Apps - Universitas Brawijaya - [Link App](https://play.google.com/store/apps/details?id=com.emub.apps2023&pcampaignid=web_share)
+# Emub Apps - Universitas Brawijaya - [Link App](https://play.google.com/store/apps/details?id=com.emub.apps2023&pcampaignid=web_share) - (as a Frontend Developer)
 
 ## 🚀 Project Overview
 Emub Apps adalah aplikasi mobile yang dirancang untuk memberikan panduan, pengaduan, dan kemudahan dalam pengerjaan tugas bagi mahasiswa baru di Universitas Negeri Brawijaya. Aplikasi ini bersifat internal dan ditujukan untuk mendukung mahasiswa baru dalam beradaptasi dengan lingkungan kampus.
