@@ -15,6 +15,24 @@ untuk memberikan kontribusi yang signifikan dalam lingkungan kerja yang dinamis 
 
 # Projects
 
+# Telegram Bot - Track New Pair di Solana Blockchain (Raydium Dex)
+
+## ✨ Features
+
+- Melakukan polling data dari Solana RPC.
+- Notifikasi ke grup atau pengguna tertentu saat pair baru terdeteksi.
+- Integrasi dengan bot Trojan, BonkBot, Sol Trading Bot untuk instant buy.
+- Integrasi dengan RugCheck untuk analisis token.
+
+## 🛠️ Tech Stack
+- **Language:** Javascript.
+- **Framework:** Telegraf.js.
+- **Library:** Solana SDK
+
+## 📷 Screenshots
+<img width="850" alt="image" src="https://github.com/user-attachments/assets/16a19b78-6f5a-4991-a5b9-7ee39bf96e81">
+
+
 # E-montir - SISTEM INFORMASI E-MONTIR PEMDA KABUPATEN SORONG - (as a Frontend Developer)
 
 ## 🚀 Project Overview
