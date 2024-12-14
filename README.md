@@ -1,12 +1,12 @@
 # Overview
-Hai! Saya adalah Software Developer berpengalaman kurang lebih 4 tahun dengan keahlian dalam pengembangan aplikasi web dan mobile menggunakan teknologi Flutter,
+Hai! Saya adalah Software Developer berpengalaman kurang lebih 4 tahun dengan keahlian dalam pengembangan aplikasi web dan mobile menggunakan teknologi Flutter, Kotlin,
 Laravel, dan React. Berpengalaman dalam mengelola proyek dari konseptualisasi hingga peluncuran, dengan fokus pada implementasi desain yang
 diberikan dan integrasi API yang efisien. Memiliki kemampuan untuk beradaptasi dengan cepat terhadap teknologi baru dan berkolaborasi antar
 tim untuk mencapai tujuan proyek. Dilengkapi dengan kemampuan komunikasi yang kuat dan kemauan yang tinggi untuk belajar mandiri. Siap
 untuk memberikan kontribusi yang signifikan dalam lingkungan kerja yang dinamis dan inovatif.
 
 # Skills
-- **Bahasa Pemrograman**: PHP, JavaScript, Typescript, Dart, Rust, Golang
+- **Bahasa Pemrograman**: PHP, JavaScript, Typescript, Dart, Kotlin, Rust, Golang
 - **Framework**: Laravel, Flutter, React, Vue, Next.js, Remix, Tailwind
 - **Database**: MySQL, PostgreSQL
 - **Tools & Teknologi**: Git, Docker, Firebase
