@@ -162,5 +162,50 @@ Emub Apps adalah aplikasi mobile yang dirancang untuk memberikan panduan, pengad
 - **Database:** MySQL.
   
 
-> [!NOTE]
-> Saya juga memiliki pengalaman dalam pembuatan Telegram Bot menggunakan Javascript/Python, dan juga beberapa pengalaman membuat dapp di Solana Blockchain
+# Android Widget Fit Tracker
+
+## 🚀 Project Overview
+Widget untuk melakukan tracking aktifitas fisik dan kesehatan.
+
+## ✨ Features
+- Tracking aktifitas seperti Nutrition, Sleep, Water, Period, Positiveness. Widget akan memperbaharui data melalui api setiap 30 menit.
+- Menghitung jumlah streak, setiap kali user menyelesaikan satu aktivitas apapun.
+
+## 🛠️ Tech Stack
+- React Native
+- Kotlin (Bridge)
+- Tools: Work Manager dan React Native Module
+
+## 📷 Screenshots
+![Screenshot_20241214_172904](https://github.com/user-attachments/assets/d1c59163-77d3-4899-999f-a4f1ed3db449)
+![Screenshot_20241214_173004](https://github.com/user-attachments/assets/49103d80-52bf-4a6d-b488-20f89d5fd161)
+
+# Silingo - Aplikasi Belajar Bahasa Isyarat
+
+## 🚀 Project Overview
+Silingo adalah aplikasi berbasis Android dan iOS untuk siapapun yang ingat belajar tentang bahasa isyarat. Terdapat banyak sekali materi kosakata per huruf, quiz dalam bentuk memperagakan gerakan langsung melalui kamera dan quiz pilihan ganda.
+
+## ✨ Features
+- Memiliki banyak sekali kosakata untuk setiap huruf dan juga materi berbentuk sebuah video pembelajaran.
+- Terdapat quiz dalam bentuk memperagakan gerakan bahasa isyarat langsung melalui kamera.
+- Terdapat quiz dalam bentuk soal pilihan ganda.
+- Terdapat challenge berdasarkan tingkat kesulitan  
+- Aplikasi dirancang untuk berjalan lancar di Android dan iOS, memastikan aksesibilitas yang luas bagi pengguna.
+
+## 🛠️ Tech Stack
+- Flutter
+- Firebase
+- Tools: Clean Architecture, Riverpod, Navigator 2.0, Go Router, Injectable, Freezed
+
+## 📷 Screenshots
+<img width="404" alt="image" src="https://github.com/user-attachments/assets/c132082c-6b6b-4655-9298-959ed4398f1a" />
+<img width="404" alt="image" src="https://github.com/user-attachments/assets/9b8ac2cf-47df-4e35-8aae-cd3dac1e9ef1" />
+<img width="404" alt="image" src="https://github.com/user-attachments/assets/6ab22edc-8592-4dba-a805-1e09ef16ba72" />
+<img width="404" alt="image" src="https://github.com/user-attachments/assets/b34869ea-50d7-4416-b037-f4172f6f275d" />
+<img width="404" alt="image" src="https://github.com/user-attachments/assets/ac34eab1-0266-487b-8f8c-8f14f778e4e9" />
+<img width="404" alt="image" src="https://github.com/user-attachments/assets/abbc66ee-ea0b-4467-862d-68e87059f431" />
+<img width="404" alt="image" src="https://github.com/user-attachments/assets/019baf35-1722-46ff-9c03-9f1175126748" />
+<img width="404" alt="image" src="https://github.com/user-attachments/assets/0ec85b61-9fe3-4de4-bf15-bbf0cc1c0740" />
+<img width="404" alt="image" src="https://github.com/user-attachments/assets/beaaf928-1d89-444d-a640-4ec65c942a42" />
+<img width="404" alt="image" src="https://github.com/user-attachments/assets/5e205336-c7e7-4680-aeb7-f4b6302bab06" />
+<img width="404" alt="image" src="https://github.com/user-attachments/assets/27e21163-f16f-4ddc-a2f5-cb424370cc45" />
