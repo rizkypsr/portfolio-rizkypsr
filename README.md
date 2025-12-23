@@ -209,3 +209,45 @@ Silingo adalah aplikasi berbasis Android dan iOS untuk siapapun yang ingat belaj
 <img width="404" alt="image" src="https://github.com/user-attachments/assets/beaaf928-1d89-444d-a640-4ec65c942a42" />
 <img width="404" alt="image" src="https://github.com/user-attachments/assets/5e205336-c7e7-4680-aeb7-f4b6302bab06" />
 <img width="404" alt="image" src="https://github.com/user-attachments/assets/27e21163-f16f-4ddc-a2f5-cb424370cc45" />
+
+# IIN Management System - Sistem Pengelolaan Issuer Identification Number - (as a Fullstack Developer)
+
+## 🚀 Project Overview
+Sistem Pengelolaan IIN (Issuer Identification Number) adalah aplikasi web yang dirancang untuk mengelola proses pengajuan, verifikasi, dan penerbitan IIN untuk institusi. Sistem ini menyediakan platform digital yang komprehensif untuk mengelola dua jenis layanan utama: IIN Nasional dan IIN Single Blockholder, dengan workflow yang terstruktur mulai dari pengajuan hingga penerbitan sertifikat.
+
+## ✨ Features
+
+- **Manajemen Aplikasi IIN Nasional**: Mengelola pengajuan IIN untuk cakupan nasional dengan workflow lengkap dari pengajuan, perbaikan, pembayaran, verifikasi lapangan, hingga penerbitan.
+- **Manajemen Aplikasi IIN Single Blockholder**: Mengelola pengajuan IIN untuk single blockholder dengan sistem pembayaran bertahap (2 tahap) dan verifikasi lapangan.
+- **Sistem Pengawasan IIN**: Fitur pengawasan untuk IIN yang sudah terbit, baik nasional maupun single blockholder.
+- **Dashboard Admin Komprehensif**: Panel admin dengan statistik lengkap, manajemen pengguna, dan monitoring semua aplikasi.
+- **Sistem Upload Dokumen**: Upload dan manajemen berbagai jenis dokumen termasuk bukti pembayaran, dokumen verifikasi lapangan, dan dokumen tambahan.
+- **Tracking Status Real-time**: Sistem pelacakan status aplikasi dengan log aktivitas dan notifikasi.
+- **Manajemen Template Form**: Sistem pengelolaan template form yang dapat diunduh pengguna.
+- **Sistem Survey**: Fitur survey untuk evaluasi layanan setelah penerbitan sertifikat.
+- **Export dan Download**: Kemampuan download sertifikat, dokumen, dan export data dalam format Excel.
+- **Role-based Access Control**: Sistem otorisasi berbasis peran dengan Spatie Laravel Permission.
+- **Responsive UI**: Antarmuka pengguna yang responsif menggunakan React dan Tailwind CSS.
+
+## 🛠️ Tech Stack
+- **Frontend:** Laravel Inertia (React), Tailwind CSS, ShadcnUI, Framer Motion
+- **Backend:** Laravel 12, PHP 8.4
+- **Database:** MySQL/PostgreSQL
+- **Authentication:** Laravel Sanctum
+- **File Management:** Laravel Storage
+- **Permissions:** Spatie Laravel Permission
+- **Other Tools:** Vite, TypeScript, Ziggy
+
+## 📷 Screenshots
+<img width="1680" height="927" alt="image" src="https://github.com/user-attachments/assets/a940243f-3f75-4da2-9d03-04f314762212" />
+<img width="1680" height="927" alt="image" src="https://github.com/user-attachments/assets/0f6ab0fa-c4a4-4861-86dc-28730ec0bc75" />
+<img width="1680" height="955" alt="image" src="https://github.com/user-attachments/assets/cb33103f-459f-4904-8c4a-d6d7a0a84fcb" />
+<img width="1680" height="955" alt="image" src="https://github.com/user-attachments/assets/f0670a2e-105f-4642-aa11-32d46cf5c622" />
+<img width="1680" height="955" alt="image" src="https://github.com/user-attachments/assets/86f96e79-4a63-4440-a5d4-eefa84a2d47c" />
+<img width="1680" height="955" alt="image" src="https://github.com/user-attachments/assets/d11be581-cc8a-4ceb-868a-32b525b9ff6e" />
+
+
+
+
+
+
