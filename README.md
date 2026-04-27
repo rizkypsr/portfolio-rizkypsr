@@ -1,5 +1,5 @@
 # Overview
-Hai! Saya adalah Software Developer berpengalaman kurang lebih 4 tahun dengan keahlian dalam pengembangan aplikasi web dan mobile menggunakan teknologi Flutter, Kotlin,
+Hai! Saya adalah Software Developer berpengalaman kurang lebih 6 tahun dengan keahlian dalam pengembangan aplikasi web dan mobile menggunakan teknologi Flutter, Kotlin,
 Laravel, dan React. Berpengalaman dalam mengelola proyek dari konseptualisasi hingga peluncuran, dengan fokus pada implementasi desain yang
 diberikan dan integrasi API yang efisien. Memiliki kemampuan untuk beradaptasi dengan cepat terhadap teknologi baru dan berkolaborasi antar
 tim untuk mencapai tujuan proyek. Dilengkapi dengan kemampuan komunikasi yang kuat dan kemauan yang tinggi untuk belajar mandiri. Siap
@@ -7,13 +7,150 @@ untuk memberikan kontribusi yang signifikan dalam lingkungan kerja yang dinamis 
 
 # Skills
 - **Bahasa Pemrograman**: PHP, JavaScript, Typescript, Dart, Kotlin, Rust, Golang
-- **Framework**: Laravel, Flutter, React, Vue, Next.js, Remix, Tailwind
+- **Framework**: Laravel, Flutter, React, Vue, Next.js, Nuxtjs, Tailwind
 - **Database**: MySQL, PostgreSQL
 - **Tools & Teknologi**: Git, Docker, Firebase
 - **Pengembangan API**: RESTful API
 - **Pengujian & Debugging**: Unit Testing, Integration Testing
 
 # Projects
+
+# Master Lu Indonesia - Website Keagamaan - [Link](https://masterluindonesia.com)
+
+## 🚀 Project Overview
+Master Lu Indonesia adalah platform pembelajaran digital yang menyediakan koleksi lengkap audio dharma, buku, paritta, dan materi edukasi Buddha. Website ini dirancang untuk memudahkan umat Buddha dalam mengakses berbagai konten spiritual dan edukatif dalam satu platform yang terintegrasi.
+
+## ✨ Features
+- **Audio Dharma**: Koleksi audio ceramah dan pengajaran dharma dari berbagai guru spiritual
+- **Perpustakaan Digital**: Akses ke berbagai buku dan teks keagamaan Buddha
+- **Paritta**: Kumpulan paritta (doa-doa perlindungan) dalam format audio dan teks
+- **Materi Edukasi**: Konten pembelajaran tentang ajaran Buddha yang terstruktur
+- **Pencarian Cerdas**: Fitur pencarian yang memudahkan menemukan konten spesifik
+- **Bookmark Manager**: Simpan dan kelola konten favorit
+- **AI Voice Guide**: Panduan suara berbasis AI untuk pengalaman yang lebih interaktif
+- **Community Playlists**: Playlist yang dibuat dan dibagikan oleh komunitas
+- **Responsive Design**: Tampilan yang optimal di berbagai perangkat
+- **Dark Mode Support**: Dukungan tema gelap untuk kenyamanan mata
+- **Progressive Web App**: Dapat diakses seperti aplikasi mobile
+
+## 🛠️ Tech Stack
+
+### Frontend
+- **Nuxt 4** - Full-stack Vue.js framework
+- **Vue 3** - Progressive JavaScript framework
+- **TypeScript** - Type-safe JavaScript
+- **Tailwind CSS 4** - Utility-first CSS framework
+- **Nuxt UI** - Modern UI components for Nuxt
+
+### State Management & Utils
+- **VueUse** - Collection of Vue composition utilities
+- **Better Auth** - Authentication solution
+
+### Integrations & APIs
+- **Firebase Storage** - Cloud storage for media files
+- **Google OAuth** - Authentication provider
+
+## 📷 Screenshots
+<img width="1228" height="966" alt="image" src="https://github.com/user-attachments/assets/6dd30fb2-00c9-403c-84ac-1a4e87f4b92f" />
+<img width="1228" height="966" alt="image" src="https://github.com/user-attachments/assets/db94cc73-d5e9-4df7-ae89-a7595c328202" />
+<img width="1228" height="966" alt="image" src="https://github.com/user-attachments/assets/a0948219-d8b0-491b-89f4-09eaddab0e43" />
+<img width="1228" height="966" alt="image" src="https://github.com/user-attachments/assets/3ccc168c-5589-4972-9555-12ecff3bf69f" />
+<img width="1228" height="966" alt="image" src="https://github.com/user-attachments/assets/aa83ccb5-0c08-4dd1-9952-b98a330c1aab" />
+<img width="1228" height="966" alt="image" src="https://github.com/user-attachments/assets/91c98a49-bdec-4681-b536-905692f28a6e" />
+<img width="1228" height="966" alt="image" src="https://github.com/user-attachments/assets/68bedb81-91b9-4f78-bea9-b7fb7765ef07" />
+<img width="1228" height="966" alt="image" src="https://github.com/user-attachments/assets/9ffb5d13-d66d-4372-ba9b-45644ca61f10" />
+
+# Makmur Permai - Sistem Manajemen Bisnis Toko Elektronik
+
+## 🚀 Project Overview
+Makmur Permai adalah sistem manajemen bisnis berbasis web yang dirancang untuk mengelola operasional perusahaan elektronik. Sistem ini menyediakan fitur lengkap untuk manajemen pelanggan, supplier, produk, penjualan, pembelian, inventori, dan pelaporan bisnis. Dibangun dengan arsitektur modular menggunakan CodeIgniter framework untuk kemudahan maintenance dan pengembangan.
+
+## ✨ Features
+- **Master Data Management**
+  - Manajemen data pelanggan dengan informasi lengkap termasuk alamat, kontak, dan rekening bank
+  - Manajemen data supplier untuk kebutuhan procurement
+  - Katalog produk dengan sistem kode otomatis dan kategori
+  - Manajemen data pipa dan aset perusahaan
+  - Sistem lookup untuk referensi data
+
+- **Transaksi Bisnis**
+  - Modul penjualan dengan sistem faktur dan pengiriman
+  - Modul pembelian dengan tracking penerimaan barang
+  - Sistem pengembalian pipa dengan tracking pengiriman
+  - Manajemen stok dengan kartu stok real-time
+
+- **Laporan & Analytics**
+  - Laporan hutang dan piutang
+  - Kartu stok untuk monitoring inventori
+  - Dashboard dengan overview bisnis
+  - Export data dalam berbagai format
+
+- **Sistem Pendukung**
+  - Manajemen pengguna dengan role-based access
+  - Sistem absensi karyawan
+  - Manajemen aset dan maintenance
+  - Pengaturan sistem yang fleksibel
+
+- **Keamanan & Audit**
+  - Session management dengan timeout otomatis
+  - Audit trail untuk tracking perubahan data
+  - Soft delete untuk data integrity
+  - XSS protection dan input validation
+
+## 🛠️ Tech Stack
+
+- **Backend Framework**: CodeIgniter 3.x dengan HMVC (Hierarchical Model-View-Controller)
+- **Database**: MySQL/MariaDB
+- **Frontend**: 
+  - HTML5, CSS3, JavaScript
+  - DataTables untuk grid data
+  - Bootstrap untuk responsive design
+- **Libraries & Tools**:
+  - TCPDF untuk generate PDF reports
+  - Form validation dengan custom rules
+  - Session management dengan file-based storage
+  - Custom helpers untuk business logic
+ 
+## 📷 Screenshots
+<img width="1728" height="966" alt="image" src="https://github.com/user-attachments/assets/7f7156cc-25be-44f8-b927-edadc9c8663a" />
+<img width="1728" height="966" alt="image" src="https://github.com/user-attachments/assets/44362b30-dfac-427c-ba01-dff7929435fb" />
+<img width="1728" height="966" alt="image" src="https://github.com/user-attachments/assets/c07afad9-1db9-4f60-b314-796480e12827" />
+
+# IIN Management System - Sistem Pengelolaan Issuer Identification Number - (as a Fullstack Developer)
+
+## 🚀 Project Overview
+Sistem Pengelolaan IIN (Issuer Identification Number) adalah aplikasi web yang dirancang untuk mengelola proses pengajuan, verifikasi, dan penerbitan IIN untuk institusi. Sistem ini menyediakan platform digital yang komprehensif untuk mengelola dua jenis layanan utama: IIN Nasional dan IIN Single Blockholder, dengan workflow yang terstruktur mulai dari pengajuan hingga penerbitan sertifikat.
+
+## ✨ Features
+
+- **Manajemen Aplikasi IIN Nasional**: Mengelola pengajuan IIN untuk cakupan nasional dengan workflow lengkap dari pengajuan, perbaikan, pembayaran, verifikasi lapangan, hingga penerbitan.
+- **Manajemen Aplikasi IIN Single Blockholder**: Mengelola pengajuan IIN untuk single blockholder dengan sistem pembayaran bertahap (2 tahap) dan verifikasi lapangan.
+- **Sistem Pengawasan IIN**: Fitur pengawasan untuk IIN yang sudah terbit, baik nasional maupun single blockholder.
+- **Dashboard Admin Komprehensif**: Panel admin dengan statistik lengkap, manajemen pengguna, dan monitoring semua aplikasi.
+- **Sistem Upload Dokumen**: Upload dan manajemen berbagai jenis dokumen termasuk bukti pembayaran, dokumen verifikasi lapangan, dan dokumen tambahan.
+- **Tracking Status Real-time**: Sistem pelacakan status aplikasi dengan log aktivitas dan notifikasi.
+- **Manajemen Template Form**: Sistem pengelolaan template form yang dapat diunduh pengguna.
+- **Sistem Survey**: Fitur survey untuk evaluasi layanan setelah penerbitan sertifikat.
+- **Export dan Download**: Kemampuan download sertifikat, dokumen, dan export data dalam format Excel.
+- **Role-based Access Control**: Sistem otorisasi berbasis peran dengan Spatie Laravel Permission.
+- **Responsive UI**: Antarmuka pengguna yang responsif menggunakan React dan Tailwind CSS.
+
+## 🛠️ Tech Stack
+- **Frontend:** Laravel Inertia (React), Tailwind CSS, ShadcnUI, Framer Motion
+- **Backend:** Laravel 12, PHP 8.4
+- **Database:** MySQL/PostgreSQL
+- **Authentication:** Laravel Sanctum
+- **File Management:** Laravel Storage
+- **Permissions:** Spatie Laravel Permission
+- **Other Tools:** Vite, TypeScript, Ziggy
+
+## 📷 Screenshots
+<img width="1680" height="927" alt="image" src="https://github.com/user-attachments/assets/a940243f-3f75-4da2-9d03-04f314762212" />
+<img width="1680" height="927" alt="image" src="https://github.com/user-attachments/assets/0f6ab0fa-c4a4-4861-86dc-28730ec0bc75" />
+<img width="1680" height="955" alt="image" src="https://github.com/user-attachments/assets/cb33103f-459f-4904-8c4a-d6d7a0a84fcb" />
+<img width="1680" height="955" alt="image" src="https://github.com/user-attachments/assets/f0670a2e-105f-4642-aa11-32d46cf5c622" />
+<img width="1680" height="955" alt="image" src="https://github.com/user-attachments/assets/86f96e79-4a63-4440-a5d4-eefa84a2d47c" />
+<img width="1680" height="955" alt="image" src="https://github.com/user-attachments/assets/d11be581-cc8a-4ceb-868a-32b525b9ff6e" />
 
 # Telegram Bot - Track New Pair di Solana Blockchain (Raydium Dex)
 
