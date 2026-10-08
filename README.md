@@ -383,6 +383,69 @@ Sistem Pengelolaan IIN (Issuer Identification Number) adalah aplikasi web yang d
 <img width="1680" height="955" alt="image" src="https://github.com/user-attachments/assets/86f96e79-4a63-4440-a5d4-eefa84a2d47c" />
 <img width="1680" height="955" alt="image" src="https://github.com/user-attachments/assets/d11be581-cc8a-4ceb-868a-32b525b9ff6e" />
 
+# SIMPEL ZONE - [Sistem Informasi Manajemen Pelayanan Perizinan dan Non Perizinan Elektronik](https://onlineptsp.pontianak.go.id/) - (as a Fullstack Developer)
+
+## 🚀 Project Overview
+
+**SIMPEL ZONE (Sistem Informasi Manajemen Pelayanan Perizinan dan Non Perizinan Elektronik)** adalah aplikasi layanan pemerintah yang dikembangkan untuk **Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu (DPMPTSP) Kota Pontianak**.
+
+Sistem ini digunakan untuk mendukung proses pengajuan, verifikasi, pengelolaan, hingga penerbitan izin secara elektronik. SIMPEL ZONE melayani beberapa sektor perizinan, meliputi:
+
+- **Pendidikan**
+- **Kesehatan**
+- **Pekerjaan Umum**
+- **Perhubungan**
+- **Kesehatan Hewan**
+
+Hasil akhir dari proses pelayanan berupa **surat izin yang diterbitkan oleh DPMPTSP Kota Pontianak**.
+
+SIMPEL ZONE terdiri dari **3 aplikasi yang terintegrasi dalam satu sistem**, yaitu aplikasi API sebagai backend utama, aplikasi web untuk verifikator/internal, dan aplikasi web untuk pemohon.
+
+## ✨ Features
+
+- **Manajemen Pengajuan Perizinan**: Mendukung proses pengajuan izin secara elektronik untuk berbagai sektor pelayanan.
+- **Manajemen Verifikasi**: Mendukung proses pemeriksaan dan verifikasi dokumen oleh petugas/verifikator.
+- **Workflow Pelayanan Terstruktur**: Pengelolaan alur proses mulai dari pengajuan, verifikasi, perbaikan, hingga penerbitan izin.
+- **Manajemen Dokumen**: Upload, penyimpanan, dan pengelolaan berbagai dokumen persyaratan perizinan.
+- **Tracking Status Pengajuan**: Pemohon dapat memantau perkembangan dan status permohonan izin secara online.
+- **Penerbitan Surat Izin**: Pengelolaan proses penerbitan surat izin setelah seluruh tahapan verifikasi dan validasi selesai.
+- **Dashboard Verifikator**: Menyediakan informasi dan monitoring permohonan yang perlu diproses oleh petugas.
+- **Riwayat Permohonan**: Menyimpan riwayat proses pelayanan dan perubahan status permohonan.
+- **Manajemen Data Perizinan**: Pengelolaan data permohonan dan jenis izin dari berbagai sektor pelayanan.
+- **Responsive Web Interface**: Antarmuka web pemohon dirancang agar dapat digunakan melalui desktop maupun perangkat mobile.
+
+## 🛠️ Tech Stack
+
+### Application 1 - API
+
+- **Backend:** Laravel 13
+- **Database:** MySQL
+- **API:** RESTful API
+- **Language:** PHP
+
+### Application 2 - Web Verifikator
+
+- **Backend:** Laravel 11
+- **Templating:** Blade
+- **Language:** PHP
+
+### Application 3 - Web Pemohon
+
+- **Frontend:** Nuxt.js
+- **UI:** Responsive Web Interface
+- **Communication:** REST API
+
+## 📷 Screenshots
+<img width="1709" height="967" alt="image" src="https://github.com/user-attachments/assets/737b08ca-8988-4ed5-b74d-c80d65274aeb" />
+<img width="1709" height="967" alt="image" src="https://github.com/user-attachments/assets/99ff3aca-1256-4e04-9de0-a0d46013a89d" />
+<img width="1709" height="967" alt="image" src="https://github.com/user-attachments/assets/8e6e5dec-3acd-4f8e-9900-a57685027467" />
+<img width="1709" height="967" alt="image" src="https://github.com/user-attachments/assets/8d69d926-3564-4876-8842-c496e79f1e55" />
+<img width="1709" height="967" alt="image" src="https://github.com/user-attachments/assets/7f8e1026-1e01-46f2-82e9-52cf2ce3bf2c" />
+<img width="1709" height="967" alt="image" src="https://github.com/user-attachments/assets/5aaaab2b-bc09-4de9-b83b-34661d263c37" />
+
+
+
+
 
 
 
